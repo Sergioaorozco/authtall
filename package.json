@@ -9,6 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.13.2"
+    "@auth/core": "^0.37.4",
+    "@tailwindcss/vite": "^4.1.12",
+    "astro": "^5.13.2",
+    "auth-astro": "^4.2.0",
+    "sweetalert2": "^11.22.4",
+    "tailwindcss": "^4.1.12"
   }
 }
